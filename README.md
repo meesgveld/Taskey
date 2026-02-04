@@ -1,2 +1,2 @@
-Project name: Taskey
-Author: Mees Groeneveld
+Project Title: Taskey
+Project Author: Meesgveld
